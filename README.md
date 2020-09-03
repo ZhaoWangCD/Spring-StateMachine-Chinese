@@ -1,2 +1,5 @@
 # Spring-StateMachine-中文文档及开发思路
 Spring StateMachine状态机开发过程的思考及Reference的部分中文翻译
+
+
+先上Reference的部分中文翻译，项目封装代码等把项目代码去掉再上传
