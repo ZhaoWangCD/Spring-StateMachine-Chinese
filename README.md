@@ -1,2 +1,2 @@
-# Spring-StateMachine-
+# Spring-StateMachine-中文文档及开发思路
 Spring StateMachine状态机开发过程的思考及Reference的部分中文翻译
